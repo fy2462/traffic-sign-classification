@@ -5,3 +5,5 @@ models
 *.swp
 *.p
 wild-signs/*
+venv
+.idea
